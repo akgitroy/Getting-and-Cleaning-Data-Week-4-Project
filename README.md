@@ -1,9 +1,10 @@
 # Getting-and-Cleaning-Data-Week-4-Project
-==================================================================
+
 Course projectwork for the Getting and Cleaning Data Coursera course
-==================================================================
+
 
 run_analysis.R
+
 The included R script, run_analysis.R, conducts the following:
 Read both the train and test datasets and merge them into x_total, y_total and sub_total, respectively.
 Extracts only the measurements on the mean and standard deviation for each measurement.
